@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.todo_app">
+    <!-- A permissão INTERNET é necessária para o desenvolvimento. Especificamente,
+        a ferramenta Flutter precisa disso para se comunicar com o aplicativo em execução
+        para permitir a configuração de pontos de interrupção, etc.
+    -->
+    <uses-permission android:name="android.permission.INTERNET"/>
+</manifest>
